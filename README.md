@@ -23,3 +23,6 @@ invivo_data.R
 Raw scRNA-seq data has been deposited at the European Genome-phenome Archive (EGA), under accession number E-MTAB-9702;  
 Seurat object with count matrix and metadata has been deposited in Cloud service of Helmholtz Center: https://nubes.helmholtz-berlin.de/s/nwkJ3XECGMcx4yo,  
 with an extract key as "TrainedImmunityHZI"
+
+
+For more information, please contact zhangbowen3187@gmail.com
