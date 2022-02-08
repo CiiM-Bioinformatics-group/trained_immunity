@@ -19,6 +19,7 @@ cellproportion.R
 ### analyses for the in vivo data
 invivo_data.R
 
-### data accessibility:
-Raw scRNA-seq data has been deposited at the European Genome-phenome Archive (EGA), under accession number E-MTAB-9702;
-As for seurat object, please send request to Bowen Zhang (zhangbowen3187@gmail.com) for link to google drive.
+### data accessibility:  
+Raw scRNA-seq data has been deposited at the European Genome-phenome Archive (EGA), under accession number E-MTAB-9702;  
+As for seurat object has been deposited in Cloud service of Helmholtz Center: https://nubes.helmholtz-berlin.de/s/nwkJ3XECGMcx4yo,  
+with an extract key as "TrainedImmunityHZI"
